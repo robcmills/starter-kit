@@ -15,7 +15,7 @@
 
   <script type="text/x-handlebars" id="index">
     <ul>
-    {{#each item in model}}
+    {{#each model as |item|}}
       <li>{{item}}</li>
     {{/each}}
     </ul>
