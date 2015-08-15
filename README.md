@@ -1,7 +1,7 @@
-starter-kit
-===========
+starter-kit 2.0.0
+=================
 
-A starter kit for Ember
+A starter kit for Ember 2.0.0
 
 Your Ember.js project is almost ready! Here's how to get started:
 
